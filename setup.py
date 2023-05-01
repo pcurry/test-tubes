@@ -9,6 +9,6 @@ setup(
     author='Paul Curry',
     author_email='pcurry@gmail.com',
     description='Small Flasks for testing',
-    install_requires=['Flask==1.1.1'],
+    install_requires=['Flask==2.3.2'],
     packages=find_packages(),
 )
